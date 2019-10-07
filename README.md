@@ -24,3 +24,11 @@ Neste projeto foram utilizadas as seguintes bibliotecas:
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/tela_login.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/alunos00.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/alunos01.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/aluno02.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/func.png)
