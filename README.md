@@ -2,6 +2,8 @@
 Projeto de conclusão de curso Senac. Este projeto consiste em um sistema de gestão escolar feito com a linguagem Java e com o banco de dados Mysql. 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 O que é necessário para rodar este projeto:
 
 - JRE - JavaSE-1.8
