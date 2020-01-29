@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="src/br/com/telas/jcalendar-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/br/com/telas/rs2xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/br/com/dal/mysql-connector-java-5.1.47 - Copia.jar"/>
+	<classpathentry exported="true" kind="lib" path="dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/ant-1.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/antlr-2.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/asm.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/asm-attrs.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/barbecue-1.5-beta1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/barcode4j-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-anim.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-awt-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-bridge.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-css.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-dom.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-ext.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-gvt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-parser.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-script.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-svg-dom.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-svggen.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-transcoder.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/batik-xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/bcel-5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/bsh-2.1b5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/castor-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/cglib-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/cincom-jr-xmla.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-beanutils-1.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-dbcp-1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-digester-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-javaflow-20060411.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-logging-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-math-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-pool-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-pool-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/commons-vfs-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/dom4j-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/ehcache-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/eigenbase-properties-1.1.0.10924.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/eigenbase-resgen-1.3.0.11873.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/eigenbase-xom-1.3.0.11999.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/ejb3-persistence.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/groovy-all-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hadoop-core-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hibernate3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hibernate-annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hibernate-commons-annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hive-common-0.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hive-exec-0.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hive-jdbc-0.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hive-metastore-0.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hive-service-0.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/hsqldb-1.8.0-10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/iText-2.1.7.js2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/iTextAsian.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jackson-annotations-2.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jackson-core-2.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jackson-databind-2.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-5.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-chart-themes-5.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-core-renderer.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-extensions-3.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-fonts-5.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-functions-5.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-htmlcomponent-4.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-htmlcomponent-5.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-json.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jasperreports-jtidy-r938.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/javacup.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/javassist-3.4.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jaxen-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jcommon-1.0.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jdt-compiler-3.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jfreechart-1.0.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/joda-time-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jpa.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_activation-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_axis-1.4patched.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_commons-codec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_commons-discovery-0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_commons-httpclient-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_jasperserver-common-ws-4.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_jaxrpc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_mail-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_saaj-api-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js_wsdl4j-1.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js-hive-datasource-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/js-mongodb-datasource-1.0.0a.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jta.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/jxl-2.6.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/libfb303-0.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/libthrift-0.9.0-snapshot.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/miglayout15-swing.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/mondrian-3.2.0-13661-JS.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/mongo-java-driver-2.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/mysql-connector-java-5.1.47 - Copia.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/olap4j-0.9.7.309-JS.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/png-encoder-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/poi-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/rex-0.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/rex-20080421.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/rhino-1.7R3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/rs2xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/saaj-api-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/servlet-api-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/slf4j-api-1.5.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/spring.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/sqleonardo-2009.03.rc1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/swingx-2007_10_07.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/velocity-1.7-dep.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/xbean.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/xml-apis.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JavaEstudo/WeducareGestao/Bibliotecas Jasper/xml-apis-ext.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

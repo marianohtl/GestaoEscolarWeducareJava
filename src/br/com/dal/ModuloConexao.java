@@ -6,9 +6,9 @@ public class ModuloConexao {
 	public static Connection conector() {
 		java.sql.Connection conexao = null;
 		String driver = "com.mysql.jdbc.Driver";
-		String url = "jdbc:mysql://localhost:3306/weducare?useSSL=false";
-		String user = "root";
-		String password = "";
+		String url = "jdbc:mysql://192.168.0.2:3306/weducare?useSSL=false";
+		String user = "admin";
+		String password = "123@senac";
 		try {
 			Class.forName(driver);
 			conexao = DriverManager.getConnection(url,user,password);
@@ -19,4 +19,5 @@ public class ModuloConexao {
 			
 		}
 	}
+
 }

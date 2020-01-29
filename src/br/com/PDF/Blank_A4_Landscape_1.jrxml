@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.10.0.final using JasperReports Library version 6.10.0-unknown  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_A4_Landscape_1" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="1241b5ad-9b62-428c-8eaa-754603d5bb8d">
+	<property name="com.jaspersoft.studio.data.sql.tables">
+		<![CDATA[d2VkdWNhcmUudGJfbWVkaWEgQVMgLDMyLDExMyxjZDhkYTQ2NC02ZmFkLTQ2NjYtOTJjNC05MTdm
+ODYwNzc5MmU7]]>
+	</property>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="DataAdapterMarcos.xml"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT weducare.tb_media.nomeal,
+	weducare.tb_media.status,
+	weducare.tb_media.portugues,
+	weducare.tb_media.matematica,
+	weducare.tb_media.geografia,
+	weducare.tb_media.historia,
+	weducare.tb_media.filosofia,
+	weducare.tb_media.sociologia,
+	weducare.tb_media.biologia,
+	weducare.tb_media.quimica,
+	weducare.tb_media.fisica,
+	weducare.tb_media.ingles,
+	weducare.tb_media.artes,
+	weducare.tb_media.edfisica,
+	weducare.tb_media.media
+FROM weducare.tb_media]]>
+	</queryString>
+	<field name="nomeal" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="nomeal"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="status" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="status"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="portugues" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="portugues"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="matematica" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="matematica"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="geografia" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="geografia"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="historia" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="historia"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="filosofia" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="filosofia"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="sociologia" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="sociologia"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="biologia" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="biologia"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="quimica" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="quimica"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="fisica" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="fisica"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="ingles" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="ingles"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="artes" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="artes"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="edfisica" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="edfisica"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<field name="media" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="media"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="tb_media"/>
+	</field>
+	<group name="nomeal">
+		<groupExpression><![CDATA[$F{nomeal}]]></groupExpression>
+	</group>
+	<group name="status">
+		<groupExpression><![CDATA[$F{status}]]></groupExpression>
+	</group>
+	<group name="portugues">
+		<groupExpression><![CDATA[$F{portugues}]]></groupExpression>
+	</group>
+	<group name="matematica">
+		<groupExpression><![CDATA[$F{matematica}]]></groupExpression>
+	</group>
+	<group name="geografia">
+		<groupExpression><![CDATA[$F{geografia}]]></groupExpression>
+	</group>
+	<group name="historia">
+		<groupExpression><![CDATA[$F{historia}]]></groupExpression>
+	</group>
+	<group name="filosofia">
+		<groupExpression><![CDATA[$F{filosofia}]]></groupExpression>
+	</group>
+	<group name="sociologia">
+		<groupExpression><![CDATA[$F{sociologia}]]></groupExpression>
+	</group>
+	<group name="biologia">
+		<groupExpression><![CDATA[$F{biologia}]]></groupExpression>
+	</group>
+	<group name="quimica">
+		<groupExpression><![CDATA[$F{quimica}]]></groupExpression>
+	</group>
+	<group name="fisica">
+		<groupExpression><![CDATA[$F{fisica}]]></groupExpression>
+	</group>
+	<group name="ingles">
+		<groupExpression><![CDATA[$F{ingles}]]></groupExpression>
+	</group>
+	<group name="artes">
+		<groupExpression><![CDATA[$F{artes}]]></groupExpression>
+	</group>
+	<group name="edfisica">
+		<groupExpression><![CDATA[$F{edfisica}]]></groupExpression>
+	</group>
+	<group name="media">
+		<groupExpression><![CDATA[$F{media}]]></groupExpression>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="43" splitType="Stretch"/>
+	</title>
+	<pageHeader>
+		<band height="32" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="79" splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band height="74" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="20" width="219" height="30" uuid="82f7d6ac-6ed2-49a2-a3a1-ffdde47c748d">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="ea093ba9-da2f-42f2-9ec6-3738d6e1152b"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{nomeal}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="220" y="20" width="80" height="30" uuid="e0a35ba9-a7bc-4a46-9f1c-d487ec675085">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="9ee70c2e-7df2-40d4-8ba9-324a0bc3105b"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{status}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="686" y="20" width="30" height="30" uuid="2974c461-c43a-4f4e-80fc-9f3b6fe312c6">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="08a874f2-73b7-429e-92e8-16635eebe683"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{media}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="302" y="20" width="30" height="30" uuid="9683edbc-e29f-4dce-b535-febcbcc41771">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="dd951ddd-72dd-406d-ae5e-311acf5b7387"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{portugues}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="364" y="20" width="30" height="30" uuid="d1325c74-649b-414f-b1ee-67f80b986cab">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="4cf593b7-9caf-4ca1-9813-57c396d918e0"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{geografia}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="488" y="20" width="30" height="30" uuid="9fc56a1a-3c4e-4687-9976-d7ae61192ab9">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="42709922-9ae9-4c5a-af86-8498e453f455"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25" lineStyle="Solid"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{biologia}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="617" y="10" width="30" height="13" uuid="181aa5ed-6b1e-4c4d-a8d2-d73c013ed6a9">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="cb8756a5-9f10-4c83-9c0b-a6d96ed7306c"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.0"/>
+				</box>
+				<textElement textAlignment="Center">
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[ART.]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="333" y="20" width="30" height="30" uuid="34ba8431-a776-4821-8b4e-b2535f511e59">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="a9781038-0fe1-4aee-8f24-7fff5d784bd3"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{matematica}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="395" y="20" width="30" height="30" uuid="1781b87d-36a9-4fbb-9f09-494357080eee">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="b755a2f6-8cad-41d1-9a94-cbc94a42c36e"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{historia}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="426" y="20" width="30" height="30" uuid="be8a965b-33e7-476a-8262-1b7605dc4f8f">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="765ed9aa-ca01-4620-9a7c-38a982350a69"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25" lineStyle="Solid"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{filosofia}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="457" y="20" width="30" height="30" uuid="db4d7583-172d-400c-9a41-6f730780e410">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="cc629ac3-ce57-4120-b222-ce8e6ca54d62"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{sociologia}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="519" y="20" width="30" height="30" uuid="a7a0c258-daf3-4dde-8f55-f669dca7e59b">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="327d428f-612e-447b-af4e-c33203e12e66"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{quimica}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="550" y="20" width="30" height="30" uuid="9487e64b-e1f0-45f3-bb02-abc4b654b3f0">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="42d9d580-76bc-4f98-9a2e-d487dcb632a3"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{fisica}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="581" y="20" width="30" height="30" uuid="8a0f6aef-6b9e-40e0-b1c5-6a0bd6996cba">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="9b66e65c-b3f9-4160-a74a-d2a949296a7e"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{ingles}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="612" y="20" width="38" height="30" uuid="6aec7aa7-b9c0-4453-ac7c-7d152c89c7a5">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="cb8756a5-9f10-4c83-9c0b-a6d96ed7306c"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{artes}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="651" y="20" width="34" height="30" uuid="fefdb521-98e7-43f4-8a9d-3f31ddc36581">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="992f0e0f-56d5-4a4d-b817-e444d4e1fbc4"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{edfisica}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="0" y="4" width="80" height="22" uuid="201dd445-55e8-4f8a-b90d-e947dc3b6505">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="ea093ba9-da2f-42f2-9ec6-3738d6e1152b"/>
+				</reportElement>
+				<box>
+					<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+				</box>
+				<text><![CDATA[Nome do Aluno]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="220" y="5" width="40" height="30" uuid="a85483fb-55c5-4e6d-80f9-e550ba99cac7">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="9ee70c2e-7df2-40d4-8ba9-324a0bc3105b"/>
+				</reportElement>
+				<text><![CDATA[Situação]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="686" y="10" width="30" height="13" uuid="400ae4e4-27c9-459d-907f-3cf4e3206f12">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="08a874f2-73b7-429e-92e8-16635eebe683"/>
+				</reportElement>
+				<textElement textAlignment="Center">
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[Média]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="307" y="10" width="20" height="18" uuid="c7e8bb32-b12f-4399-b2da-03d122742f87">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="dd951ddd-72dd-406d-ae5e-311acf5b7387"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[PT.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="339" y="10" width="26" height="14" uuid="4dae9ad8-aa79-448a-8172-cedd52a63dcd">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="a9781038-0fe1-4aee-8f24-7fff5d784bd3"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[MAT.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="432" y="9" width="18" height="16" uuid="d3db50cc-b7e8-48ad-91e2-4978e22d6073">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="765ed9aa-ca01-4620-9a7c-38a982350a69"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[FIL.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="400" y="9" width="19" height="15" uuid="80adbd5e-ed71-499f-b5f9-743d17f80d4d">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="b755a2f6-8cad-41d1-9a94-cbc94a42c36e"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[HIS.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="368" y="10" width="30" height="15" uuid="71efec63-796d-4c8a-b055-31bbd4f33507">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="4cf593b7-9caf-4ca1-9813-57c396d918e0"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[GEO.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="652" y="10" width="34" height="15" uuid="02953ba2-e1c3-4393-9f09-bd5165c7fe4e">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="992f0e0f-56d5-4a4d-b817-e444d4e1fbc4"/>
+				</reportElement>
+				<textElement textAlignment="Center">
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[ED. FÍS.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="585" y="10" width="19" height="13" uuid="b2efb84d-da22-4dca-95c5-49344a61f92c">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="9b66e65c-b3f9-4160-a74a-d2a949296a7e"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[ING.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="557" y="10" width="19" height="13" uuid="88e0a987-19cc-476b-8726-5859a67970ab">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="42d9d580-76bc-4f98-9a2e-d487dcb632a3"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[FÍS.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="522" y="11" width="30" height="12" uuid="af0c9992-9035-4147-abcc-7e61528b21a3">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="327d428f-612e-447b-af4e-c33203e12e66"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[QUÍM.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="458" y="10" width="40" height="16" uuid="4b0a8aa8-a46f-4c7f-93d3-c8d161774abf">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="cc629ac3-ce57-4120-b222-ce8e6ca54d62"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[SOCIO.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="494" y="10" width="20" height="16" uuid="a17ed72b-e40e-4ba6-b370-1a0d2fc059da">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="42709922-9ae9-4c5a-af86-8498e453f455"/>
+				</reportElement>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[BIO.]]></text>
+			</staticText>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="58" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="243" splitType="Stretch"/>
+	</summary>
+</jasperReport>
