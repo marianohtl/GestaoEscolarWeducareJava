@@ -34,3 +34,17 @@ Neste projeto foram utilizadas as seguintes bibliotecas:
 ![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/alunos02.png)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/func.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/Relatórios.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/Turmas.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/Notas.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/AdminLogin.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/DiretorLogin.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![Alt Text](https://github.com/marianohtl/GestaoEscolarWeducareJava/blob/master/img/ProfessoresLogin.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
